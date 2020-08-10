@@ -22,6 +22,13 @@
 #define __STATS_H__
 
 /* Add Your Declarations and Function Comments here */ 
+void print_statistics();
+void print_array();
+int find_median();
+int find_mean();
+int find_maximum();
+int find_minimum();
+int sort_array();
 
 /**
  * @brief <Add Brief Description of Function Here>
